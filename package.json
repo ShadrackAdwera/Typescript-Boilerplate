@@ -1,0 +1,19 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "TypeScript Boilerplate Setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "deeznuts"
+  ],
+  "author": "adwera",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
